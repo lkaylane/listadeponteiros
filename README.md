@@ -1,2 +1,1 @@
-. Laisa Kaylane
-. Larissa Apolinario
+#listadeponteiros
